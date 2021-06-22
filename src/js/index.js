@@ -1,4 +1,5 @@
 import gallery from "./gallery-items.js";
+import "../css/styles.css";
 
 
 const galleryList = document.querySelector(".js-gallery");
